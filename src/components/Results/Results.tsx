@@ -73,7 +73,7 @@ const Results = () => {
           gameOver.dispatch((value) => !value);
           score.dispatch(0);
         }}>
-        Volver a internar
+        Volver a intentar
       </TryAgainButton>
     </Container>
   );
